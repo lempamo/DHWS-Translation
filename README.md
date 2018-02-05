@@ -6,7 +6,7 @@ To work on the translation, not only do you need the files in the repo, but also
 
 I have a link for it here: https://mega.nz/#!ywVnAbIS!WEJBh9cHvRVKzJw7e7it3wcPmwttVEp1cBj58LrxLe0
 
-Once it's downloaded, clone the repo, and replace the contents of the provided RAR with the repo files.
+Once it's downloaded, unarchive it to a safe directory, clone the repo, and replace the files of the directory with the corresponding repo files.
 
 When ready to commit, place those files back in where you cloned the repo to and simply commit.
 
