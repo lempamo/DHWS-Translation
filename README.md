@@ -1,6 +1,9 @@
 # DHWS-Translation
 English translation project for "Die Höhlenwelt Saga: Der Leuchtende Kristall", made for Ross Scott.
 
+## Problems:
+I can handle the text in HW.EXE, but I don't know how to decode the dialogue and graphics in the HW.0XX files.
+
 ## Contributing
 To work on the translation, not only do you need the files in the repo, but also the CD copy of the original game.
 
